@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunjalshah101
+Hi there👋
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently working on Machine Learning and Deep Learning solutions
 - 💞️ I’m looking to collaborate on interesting ML solutions
