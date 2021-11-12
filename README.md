@@ -1,4 +1,4 @@
-Hi there👋
+Hi, there! I am Kunjal Shah👋
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently looking for internships in Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on interesting ML solutions
